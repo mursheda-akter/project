@@ -1,0 +1,432 @@
+.navbar-site{
+	background:rgba(0,0,0,0.5);
+	border:none;
+}
+.navbar-default img{
+	margin-top:15px;
+	margin-bottom:15px;
+}
+
+.navbar-default li a{
+   color:#FFF;
+   margin-top:15px;
+	}
+.navbar-default:hover .navbar-nav li a{
+	color:#fff;
+	}
+.banner{
+	overflow:hidden;
+}
+	
+	
+.banner1{
+	
+	background-size:cover;
+	background-repeat:no-repeat;
+}	
+
+.inner-banner{
+	padding:150px 20px;
+	color:#Fff;
+	opacity:1;
+}
+
+.text h1{
+	margin-top:50px;
+	margin-left:90px;
+	color:#fff;
+}
+
+.text h4{
+	 color:#fff;
+	 margin-left:90px;
+	 
+}
+
+
+.text button{
+ margin-top:20px;
+ margin-left:90px;
+ background:#ffe26d;
+ }
+
+ .text button:hover{
+ margin-top:20px;
+ background:#62497C;
+ }
+.title h2{
+	font-weight:bold;
+	font-size:36px;
+	color:#000;
+	font-family: 'Montserrat', sans-serif;
+} 
+ 
+.welcome{
+	margin-top:50px;
+}
+
+.image img{
+	/*margin-top:-45px;*/
+}
+
+.service{
+	margin-top:40px;
+	background-color:#ffe26d;
+	}
+	
+.service h4{
+	margin-top:30px;
+	font-family: 'Montserrat', sans-serif;
+	}
+
+.service p{
+	font-size:13px;
+	padding:2px 30px 10px 30px;
+	margin-top:20px;
+	
+
+    font-family: 'Lora', serif;
+
+    font-family: 'Fjalla One', sans-serif;
+	
+	}
+	
+.service button{
+	background-color:#ffe26d;
+	
+
+    font-family: 'Lora', serif;
+
+    font-family: 'Fjalla One', sans-serif;
+
+    font-family: 'Lobster', cursive;
+
+
+	}
+	
+.service button:hover{
+	background-color:#62497c;
+	color:#FFF;
+	}
+	
+.icon{
+	height:60px;
+	width:60px;
+    background-color:#62497c;
+	 border-radius:50%;
+	 margin:auto;
+}
+
+.icon i{
+	font-size:30px;
+	padding:15px;
+	color:#fff;
+}
+.project-main h2{
+	font-weight:bold;
+	font-size:36px;
+	color:#000;
+    font-family: 'Lora', serif;
+
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.divider{
+	border-top:1px solid #CCC;
+	margin-top:30px;
+	}
+
+.projects{
+	overflow:hidden;
+	background-color:#EFEFEF;
+	}
+.p-project{
+	width:25%;
+	float:left;	
+	margin-top:30px;
+	}
+.p-project img{
+	width:100%;
+	height:480px;
+	}
+.para{
+	 margin-top:30px;
+	 margin-left:30px;
+	 }
+.btn{
+	background-color:#FFF;
+	margin-bottom:25px;
+    font-family: 'Lora', serif;
+    font-family: 'Fjalla One', sans-serif;
+	}	
+.p-project:hover{
+	background-color:#ffe26d;
+	}	
+	
+.para:hover .btn{
+	background-color:#62497c;
+	color:#FFF;
+	}
+
+.para p{
+    font-size:12px;
+    font-family: 'Lora', serif;
+
+    font-family: 'Fjalla One', sans-serif;
+	
+	 }
+	 
+.pricing-table{
+	margin-top:30px;
+	overflow:hidden;
+	
+	
+		}		
+		
+.pricing-table h2{
+	text-align:center;
+	font-family: 'Abril Fatface', cursive;
+}
+
+.border{
+	border-left:1px solid#CCC;
+	border-right:1px solid#CCC;
+	}
+	
+.price-cont{
+	text-align:center;
+	}
+
+.price-cont h5{
+	color:#999;
+	}
+
+.price-cont button{
+   background-color:#ffe26d;
+   width:20%;
+  
+	}
+.text-center{
+	margin-top:40px;
+
+	}
+
+.zippy-team{
+	margin-top:40px;
+	text-align:center;
+	
+	}	
+	
+
+	
+.bgimage{
+	position:relative;
+	width:175px;
+	overflow:hidden;
+	height:175px;
+	margin:0 auto;
+	
+}
+
+.bgimage:hover{
+	background-color:red;
+	z-index:99;
+	
+	}
+	
+.bgimage img{
+	opacity:.4;
+	
+}
+
+.bgimage ul{
+	position:absolute;
+	height:100%;
+	width:100%;
+	left: 0px;
+    top:33px;
+    z-index:99;
+	opacity:1;
+	}
+	
+.bgimage:hover ul{
+   opacity:1;
+	}
+	
+.bgimage ul li a {
+	font-size:25px;
+	color:#000;
+	
+	}	
+	
+.image h5{
+	color:#999;
+	}	
+	
+.newsletter{
+	padding:180px 0px;
+	background-attachment:fixed;
+	background-size:cover;
+	background-repeat:no-repeat;
+	}	
+	
+.newsletter h1{
+	margin-top:-130px;
+	}
+	
+.text-center{
+	
+	font-size:36px;
+	color:#000;
+    font-family: 'Lora', serif;
+
+    font-family: 'Fjalla One', sans-serif;
+}	
+	
+.input-group{
+	width:500px;
+	margin:auto;
+	margin-top:30px;
+	}	
+	
+.input-group button{
+	 background-color:#ffe26d;
+	}
+	
+.input-group button:hover{
+	background-color:#62497c;
+	color:#FFF;
+	}
+	
+.blog{	
+	margin-top:30px;
+	overflow:hidden;
+
+}	
+
+.blog h2{
+	font-weight:bold;
+	font-size:36px;
+	color:#000;
+    font-family: 'Lora', serif;
+
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.blog-cont{
+	margin-top:30px;
+	text-align:center;
+	}
+	
+.blog-cont h5,h4{
+	margin-top:30px;
+	}
+
+.blog-cont h5{
+	color:#999;
+	}
+.blog-cont button{
+	background-color:#ECECEC;
+}
+.blog-cont button:hover{
+	background-color:#ffe26d;
+	}
+
+.contact{
+	margin-top:30px;
+	width:100%;
+	background-color:#ffe26d;
+	display:block;
+	overflow:hidden;
+	
+	}	
+	
+.map{
+	width:50%;
+	float:left;
+	}
+	
+.contact1{
+	width:50%;
+	float:left;
+	}	
+	
+.contact1 h1{
+	margin-left:30px;
+	}
+
+.contact1 form{
+	margin-left:30px;
+	width:50%;
+	
+	}
+	
+input[type=text]:focus {
+	border: 3px solid #555;
+} 
+	
+.contact1 button{
+	background-color:#62497c;
+color:#fff;}
+
+.footer{
+	text-align:center;
+	}
+.footer h5{
+	text-align:center;
+	margin-left:50px;
+	
+	
+	}
+.office-address p,.contact-us p,.follow-us ul{
+	margin-left:50px;
+	font-size:15px;
+	}	
+.follow-us ul li{
+	padding:0px 24px 0px 25px;;
+	font-size:20px;
+	}
+.follow-us ul:hover{
+	color:#62497c;
+	}
+@media all and (min-width:768px) and (max-width:1024px){
+	.container{
+		width:100%;
+		}
+		.icon{
+			width:98%;
+			}
+			.banner1{
+				width:100%;
+			}
+			.welcome{
+				width:100%;
+			}
+	}
+	
+@media all and (max-width:767px){
+.container{
+		width:100%;
+		
+		}
+		
+.newsletter{
+			width:100%;
+			}
+.contact{
+			width:100%;
+			}
+		.banner1{
+				width:100%;
+			}
+		.p-project{
+			width:100%;
+		}
+.input-group{
+	width:100%;
+}
+.map{
+	width:100%;
+}
+	}		
+		
